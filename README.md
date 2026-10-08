@@ -9,6 +9,7 @@
   <a href="https://github.com/yahiamee"><img src="https://img.shields.io/badge/GitHub-yahiamee-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.assetcoding.sa"><img src="https://img.shields.io/badge/Portfolio-Asset%20Coding-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:Yahia2mee@gmail.com"><img src="https://img.shields.io/badge/Email-Yahia2mee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yahia-hayder-4400a9182/"><img src="https://img.shields.io/badge/LinkedIn-Yahia%20Hayder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -106,5 +107,6 @@ I enjoy solving problems where software engineering meets real business operatio
 ## Connect
 
 - GitHub: https://github.com/yahiamee
+- LinkedIn: https://www.linkedin.com/in/yahia-hayder-4400a9182/
 - Portfolio: https://www.assetcoding.sa
 - Email: Yahia2mee@gmail.com
