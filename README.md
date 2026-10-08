@@ -36,16 +36,19 @@ I currently work with **Asset Coding Business Services** in Saudi Arabia, buildi
 | **CQZ ERP / POS** | ERP, POS, accounting, inventory, purchasing, HR and business reporting | Laravel, MySQL, APIs |
 | **Mandob Water** | Delivery and business operations platform | Laravel, Flutter |
 | **Asset Coding** | Business systems and digital transformation | Laravel, Web |
-| **CyberShieldAI** | AI-assisted cybersecurity project | Python / AI / Security |
-| **Hospital Management** | Healthcare management software | Web Application |
-| **Airline Reservation System** | Booking and reservation workflows | Web Application |
+| **[CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)** | AI-assisted cybersecurity assessment | Python, Flask, OWASP ZAP, AI |
+| **[Pharma App](https://github.com/yahiamee/pharma_app)** | Multi-service commerce / pharmacy-oriented mobile app | Flutter, Firebase, Maps |
+| **[Hospital Management](https://github.com/yahiamee/Hospital-management)** | Healthcare management project | PHP, Web |
+| **[Airline Reservation System](https://github.com/yahiamee/Airline-reservations-system)** | Reservation and flight workflows | PHP, Web |
+| **[Small Business Learning App](https://github.com/yahiamee/Small-business-application)** | Educational hybrid mobile application | Ionic, Cordova |
 
 ---
 
 ## Featured Repository
 
 ### [CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)
-A public project focused on the intersection of **artificial intelligence and cybersecurity**.
+
+A security-focused project combining practical web assessment, OWASP ZAP integration, reporting, and optional AI-assisted analysis.
 
 ---
 
