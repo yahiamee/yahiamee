@@ -32,16 +32,27 @@ I currently work with **Asset Coding Business Services** in Saudi Arabia, buildi
 
 ## Selected Work
 
-| Project | Focus | Stack / Domain |
-|---|---|---|
-| **CQZ ERP / POS** | ERP, POS, accounting, inventory, purchasing, HR and business reporting | Laravel, MySQL, APIs |
-| **Mandob Water** | Delivery and business operations platform | Laravel, Flutter |
-| **Asset Coding** | Business systems and digital transformation | Laravel, Web |
-| **[CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)** | AI-assisted cybersecurity assessment | Python, Flask, OWASP ZAP, AI |
-| **[Pharma App](https://github.com/yahiamee/pharma_app)** | Multi-service commerce / pharmacy-oriented mobile app | Flutter, Firebase, Maps |
-| **[Hospital Management](https://github.com/yahiamee/Hospital-management)** | Healthcare management project | PHP, Web |
-| **[Airline Reservation System](https://github.com/yahiamee/Airline-reservations-system)** | Reservation and flight workflows | PHP, Web |
-| **[Small Business Learning App](https://github.com/yahiamee/Small-business-application)** | Educational hybrid mobile application | Ionic, Cordova |
+| Project | My work | Published product |
+| --- | --- | --- |
+| **Asset Coding** | Asset management websites and mobile application, including identification, custody, audits, maintenance and reporting workflows | [Website](https://assetcoding.sa/) · [Android app](https://play.google.com/store/apps/details?id=app.aseet.coding) |
+| **AC POS** | Point of sale, accounting, inventory, purchasing, reporting and ZATCA e-invoicing integration | [Product](https://ac.assetcoding.sa/) |
+| **CQZ ERP / POS** | Accounting, inventory, purchasing, HR and business reporting workflows | [Website](https://assetcoding.com.sa/) |
+| **Mandoob Water** | Laravel website and Flutter mobile application for water delivery operations in Medina | [Website](https://mandoobwater.com/) · [Android app](https://play.google.com/store/apps/details?id=com.mandoobwater.app) |
+| **Wasel Taxi** | Website presenting ride services, service areas, driver information and app access in Sudan | [Website](https://taxi.madasudan.com/) |
+| **Mada Sudan** | Digital services and business platform development | [Platform](https://madasudan.com/) |
+| **Shohada Badr Medical** | Corporate website presenting medical equipment, hospital and laboratory outfitting, services and quotation requests | [Website](https://shohadabadr.com/) |
+| **[IRONWATCH SOC](https://github.com/yahiamee/IRONWATCH-SOC)** | Educational n8n and Gemini workflow for security alert analysis and analyst review | Public workflow and examples |
+| **[CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)** | Flask security assessment project developed with fellow contributors | Public source and setup guide |
+| **[Pharma App](https://github.com/yahiamee/pharma_app)** | Flutter pharmacy-oriented customization using an existing multi-vendor commerce foundation | Public source with setup limitations |
+| **[Hospital Management](https://github.com/yahiamee/Hospital-management)** | Early PHP healthcare administration project | Legacy source |
+| **[Airline Reservation System](https://github.com/yahiamee/Airline-reservations-system)** | Early PHP reservation and flight workflows | Legacy source |
+| **[Small Business Learning App](https://github.com/yahiamee/Small-business-application)** | Educational Ionic/Cordova application | Legacy source |
+| **[Car Marketplace](https://github.com/yahiamee/shopping-)** | Early Ionic car marketing application | Legacy source |
+| **[Mini School](https://github.com/yahiamee/mini-school)** | Early PHP school administration project | Legacy source |
+
+Product links demonstrate published work. Their application source is not hosted in this profile repository. Role descriptions reflect my development work and distinguish adaptations from the existing foundations they use.
+
+I am based in **Medina, Saudi Arabia**, and hold a **Master's degree in Information Security from Karary University, completed in 2022**.
 
 ---
 
