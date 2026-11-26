@@ -57,6 +57,7 @@ A security-focused project combining practical web assessment, OWASP ZAP integra
 | **Wasel Taxi** | Website presenting ride services, service areas, driver information and app access in Sudan | [Website](https://taxi.madasudan.com/) |
 | **Mada Sudan** | Digital services and business platform development | [Platform](https://madasudan.com/) |
 | **Shohada Badr Medical** | Corporate website presenting medical equipment, hospital and laboratory outfitting, services and quotation requests | [Website](https://shohadabadr.com/) |
+| [OpenCode IQ](https://github.com/yahiamee/opencode-iq) | Developed a local-first OpenCode V1 plugin for code understanding, assessments, and interactive coverage reports | [Quick install](https://github.com/yahiamee/opencode-iq#quick-install) |
 | **[IRONWATCH SOC](https://github.com/yahiamee/IRONWATCH-SOC)** | Educational n8n and Gemini workflow for security alert analysis and analyst review | Public workflow and examples |
 | **[CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)** | Flask security assessment project developed with fellow contributors | Public source and setup guide |
 | **[Pharma App](https://github.com/yahiamee/pharma_app)** | Flutter pharmacy-oriented customization using an existing multi-vendor commerce foundation | Public source with setup limitations |
