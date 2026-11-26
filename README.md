@@ -30,6 +30,22 @@ I currently work with **Asset Coding Business Services** in Saudi Arabia, buildi
 
 ---
 
+## Featured Open Source
+
+### [OpenCode IQ](https://github.com/yahiamee/opencode-iq)
+
+I built OpenCode IQ to help developers explain and assess their understanding of the code they review and maintain. The OpenCode V1 plugin indexes source files locally, produces interactive coverage reports, and offers optional model-assisted explanations and assessments.
+
+**MIT license · Public preview v0.5.0 · Tested on Windows with OpenCode 1.19.6**
+
+[Quick install](https://github.com/yahiamee/opencode-iq#quick-install) · [التثبيت بالعربية](https://github.com/yahiamee/opencode-iq/blob/main/README.ar.md#التثبيت-السريع) · [Release notes](https://github.com/yahiamee/opencode-iq/releases/tag/v0.5.0)
+
+### [CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)
+
+A security-focused project combining practical web assessment, OWASP ZAP integration, reporting, and optional AI-assisted analysis.
+
+---
+
 ## Selected Work
 
 | Project | My work | Published product |
@@ -53,14 +69,6 @@ I currently work with **Asset Coding Business Services** in Saudi Arabia, buildi
 Product links demonstrate published work. Their application source is not hosted in this profile repository. Role descriptions reflect my development work and distinguish adaptations from the existing foundations they use.
 
 I am based in **Medina, Saudi Arabia**, and hold a **Master's degree in Information Security from Karary University, completed in 2022**.
-
----
-
-## Featured Repository
-
-### [CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)
-
-A security-focused project combining practical web assessment, OWASP ZAP integration, reporting, and optional AI-assisted analysis.
 
 ---
 
@@ -122,10 +130,3 @@ I enjoy solving problems where software engineering meets real business operatio
 - Portfolio: https://www.assetcoding.sa
 - Email: Yahia2mee@gmail.com
 
-## OpenCode IQ
-
-I am **YAHIA**, the developer of [OpenCode IQ](https://github.com/yahiamee/opencode-iq), an MIT-licensed OpenCode V1 plugin for code understanding and knowledge assessment.
-
-طوّرت **OpenCode IQ** لمساعدة المطورين على فهم الكود واختبار معرفتهم به.
-
-[Quick install](https://github.com/yahiamee/opencode-iq#quick-install) · [دليل التثبيت بالعربية](https://github.com/yahiamee/opencode-iq/blob/main/README.ar.md)
