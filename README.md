@@ -60,12 +60,6 @@ A security-focused project combining practical web assessment, OWASP ZAP integra
 | [OpenCode IQ](https://github.com/yahiamee/opencode-iq) | Developed a local-first OpenCode V1 plugin for code understanding, assessments, and interactive coverage reports | [Quick install](https://github.com/yahiamee/opencode-iq#quick-install) |
 | **[IRONWATCH SOC](https://github.com/yahiamee/IRONWATCH-SOC)** | Educational n8n and Gemini workflow for security alert analysis and analyst review | Public workflow and examples |
 | **[CyberShieldAI](https://github.com/yahiamee/CyberShieldAI)** | Flask security assessment project developed with fellow contributors | Public source and setup guide |
-| **[Pharma App](https://github.com/yahiamee/pharma_app)** | Flutter pharmacy-oriented customization using an existing multi-vendor commerce foundation | Public source with setup limitations |
-| **[Hospital Management](https://github.com/yahiamee/Hospital-management)** | Early PHP healthcare administration project | Legacy source |
-| **[Airline Reservation System](https://github.com/yahiamee/Airline-reservations-system)** | Early PHP reservation and flight workflows | Legacy source |
-| **[Small Business Learning App](https://github.com/yahiamee/Small-business-application)** | Educational Ionic/Cordova application | Legacy source |
-| **[Car Marketplace](https://github.com/yahiamee/shopping-)** | Early Ionic car marketing application | Legacy source |
-| **[Mini School](https://github.com/yahiamee/mini-school)** | Early PHP school administration project | Legacy source |
 
 Product links demonstrate published work. Their application source is not hosted in this profile repository. Role descriptions reflect my development work and distinguish adaptations from the existing foundations they use.
 
