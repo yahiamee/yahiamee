@@ -121,3 +121,11 @@ I enjoy solving problems where software engineering meets real business operatio
 - LinkedIn: https://www.linkedin.com/in/yahia-hayder-4400a9182/
 - Portfolio: https://www.assetcoding.sa
 - Email: Yahia2mee@gmail.com
+
+## OpenCode IQ
+
+I am **YAHIA**, the developer of [OpenCode IQ](https://github.com/yahiamee/opencode-iq), an MIT-licensed OpenCode V1 plugin for code understanding and knowledge assessment.
+
+طوّرت **OpenCode IQ** لمساعدة المطورين على فهم الكود واختبار معرفتهم به.
+
+[Quick install](https://github.com/yahiamee/opencode-iq#quick-install) · [دليل التثبيت بالعربية](https://github.com/yahiamee/opencode-iq/blob/main/README.ar.md)
